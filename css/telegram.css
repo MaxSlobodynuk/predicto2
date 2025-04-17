@@ -5404,3 +5404,15 @@ i.tl_telegram_share_icon {
   max-width: 600px;
   margin: 0 auto;
 }
+
+/* #tgme_background {
+  display: none !important;
+} */
+
+/* .tgme_background_pattern {
+  background-image: url("/images/Group.png") !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  opacity: 1 !important;
+} */
